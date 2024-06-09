@@ -1,4 +1,4 @@
-#Project and submission for my University's machine learning-releated classes
+Projects and submissions for my University's machine learning-releated classes
 Currently listed projects:
 
 ### Reddit Kaggle competition
