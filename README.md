@@ -1,4 +1,5 @@
 Projects and submissions for my University's machine learning-releated classes
+
 Currently listed projects:
 
 ### Reddit Kaggle competition
